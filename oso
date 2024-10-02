@@ -1,0 +1,16 @@
+void main(){
+  // Orejas 
+  ellipse(110,95, 35,35);
+  ellipse(210,95, 35,35);
+  // Cabeza
+  ellipse(160,130, 110,110);
+  // Morro
+  ellipse(160,150, 35,25);
+  // Ojos
+  ellipse(135,120, 20,20);
+  ellipse(185,120, 20,20);
+  ellipse(135,120, 5,5);
+  ellipse(185,120, 5,5);
+  // Nariz
+  ellipse(160,145,15,10);
+}
